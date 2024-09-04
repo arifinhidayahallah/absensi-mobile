@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/presensiBottomNav"
+        android:enabled="true"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Presensi"/>
+    <item
+        android:id="@+id/riwayatPresensiBottomNav"
+        android:enabled="true"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Riwayat Presensi"/>
+</menu>
